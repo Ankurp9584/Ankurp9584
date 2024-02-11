@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankur Patel</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js , React.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
